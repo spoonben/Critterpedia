@@ -1,27 +1,22 @@
 {
-  "name": "mobx-react-typescript-boilerplate",
+  "name": "critterpedia",
   "version": "1.0.0",
-  "description": "Boilerplate for MobX + React project with Typescript, ES6 compilation and hot code reloading",
+  "description": "",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobxjs/mobx-react-typescript-boilerplate.git"
+    "url": "https://github.com/spoonben/Critterpedia.git"
   },
   "keywords": [
     "react",
     "reactjs",
-    "boilerplate",
     "mobx",
-    "starter-kit"
   ],
-  "author": "Michel Weststrate <mweststrate@gmail.com> (http://github.com/mweststrate)",
+  "author": "Ben Spoon",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mobxjs/mobx/issues"
-  },
-  "homepage": "http://mobxjs.github.com/mobx",
+  "homepage": "critterpedia.benspoon.com",
   "devDependencies": {
     "@types/react-dom": "^16.9.2",
     "awesome-typescript-loader": "^5.2.1",

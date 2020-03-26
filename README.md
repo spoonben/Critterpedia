@@ -1,11 +1,6 @@
-# React-TypeScript
+# Critterpedia
 
-Minimal boilerplate for a single-page app using MobX, React and TypeScript with TSX.
+A search for Animal Crossing's critterpedia. This is the list as I have it right now. It will most likely change as the year goes on. We'll see!
 
-Initial run:
 
-* Install Node.js
-* `npm install`
-* `npm start`
-
-For simplicity sake Webpack Hot Module Reloading is disabled. If you want to use HMR, see the [Reactive2015 demo](https://github.com/mobxjs/mobx-reactive2015-demo) to see a valid setup.
+Also this is a chance to practice some typescript and some mobx :P
