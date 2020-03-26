@@ -9,11 +9,6 @@
     "type": "git",
     "url": "https://github.com/spoonben/Critterpedia.git"
   },
-  "keywords": [
-    "react",
-    "reactjs",
-    "mobx",
-  ],
   "author": "Ben Spoon",
   "license": "MIT",
   "homepage": "critterpedia.benspoon.com",
@@ -28,6 +23,7 @@
     "mobx": "^5.14.2",
     "mobx-react": "^6.1.4",
     "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react-dom": "^16.10.2",
+    "webpack-cli": "^3.3.11"
   }
 }
