@@ -4,8 +4,8 @@
   "description": "",
   "scripts": {
     "start": "node server.js",
-    "start:prod": "forever start prod.js",
-    "stop:prod": "forever stop prod.js"
+    "start:prod": "forever start server.js",
+    "stop:prod": "forever stop server.js"
   },
   "repository": {
     "type": "git",
