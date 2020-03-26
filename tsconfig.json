@@ -11,5 +11,7 @@
   "exclude": [
     "node_modules",
     "static"
-  ]
+  ],
+  "types": [ "node" ],
+  "typeRoots": [ "../node_modules/@types" ]
 }
